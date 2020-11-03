@@ -1,2 +1,4 @@
 # CleanMotD
-Simple and light plugin to manage the motd of your server.
+Complemento simple y ligero para administrar el motor de su servidor.
+
+by:passddos

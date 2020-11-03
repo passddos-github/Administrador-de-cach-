@@ -1,0 +1,5 @@
+name: CleanMotD
+version: 0.2.3
+main: 
+description: Simple MotD managing plugin.
+author: passddos
